@@ -14,8 +14,8 @@ Steps:
 9. Test the model using the file: Model_testing.ipynb
   
 # Team Members:
-1. Anjali PC [CB.EN.P2CSE20006]
-2. Uma Rani [ ]
+1. Anjali PC - [CB.EN.P2CSE20006]
+2. M Uma Rani - [CB.EN.P2CSE19010]
 
 # Team Guide:
 Dr. Senthilkumar. T, Assistant Professor CSE Department, Amrita Vishwa Vidyapeetham,  Coimbatore.
