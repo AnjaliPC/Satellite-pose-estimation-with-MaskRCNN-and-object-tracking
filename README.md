@@ -29,3 +29,6 @@ We trained the model with 240 images in training set and 60 images in the valida
 
 # Conclusion:
 Our next task is to track the detected satellite Object using deepSORT and form their point cloud. Firther we need to perform the same task of pose estimation on images with introduced occlusion situations and improve the accuracy of our model.
+
+# Reference:
+[1]. Waleed, Abdulla (2017) Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow [Source code]. https://github.com/matterport/Mask_RCNN.
